@@ -1,0 +1,4 @@
+repository "Slicer Project/Slicer Project Game@3573766661649@cloud"
+  path "/"
+    br "/main"
+    co "/main"
